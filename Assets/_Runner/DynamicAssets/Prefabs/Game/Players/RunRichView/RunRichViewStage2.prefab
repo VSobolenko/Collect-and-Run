@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5987084105190353388
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6291848880615795644, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5027945920182515386, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3517081148287939857, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2108971386342365689, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1256841003522951573, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_Name
+      value: RunRichViewStage2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1009562781750873517, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2432445491478374896, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: fa7e5a5404904af43a1b35f775c8bd32, type: 2}
+    - target: {fileID: 5866666021909216657, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7281298225518208192, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -2376212179557323037}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6530264029678050977}
+  m_SourcePrefab: {fileID: 100100000, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+--- !u!95 &179282982287348861 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 5866666021909216657, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+  m_PrefabInstance: {fileID: 5987084105190353388}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6906002384301790397 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: c57e52a533b2d444fb1e1a2f0b030320, type: 3}
+  m_PrefabInstance: {fileID: 5987084105190353388}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-2376212179557323037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6906002384301790397}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e51832ca1874d4d96ee7b6ddb0628e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: PlayerModelView.RunRichViewStage2
+  _animator: {fileID: 6530264029678050977}
+--- !u!114 &6530264029678050977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6906002384301790397}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2787c7c04b544a8b94b0b0d6de4b15c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _animator: {fileID: 179282982287348861}

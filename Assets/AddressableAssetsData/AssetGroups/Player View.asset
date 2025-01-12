@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Player View
+  m_EditorClassIdentifier: 
+  m_GroupName: Player View
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 66fbfce8c0e12494091e4272fc377d07
+  m_SerializeEntries:
+  - m_GUID: 0459dc8f4fbcdbc45bcb6dfe7fcd38d6
+    m_Address: AnimeStage1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 395db74739798fe4f946bfb9e7c47656
+    m_Address: AnimeStage4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 486f7c3e2660fc7498577b7084a30b34
+    m_Address: AnimeStage3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4edc9992c5d8fb64fb1f95bc7849bd05
+    m_Address: AnimeStage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 668f8df1abe6a5a4aa0c2e58f2f3abed
+    m_Address: AnimeStage0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ebb751b38591f7f4fa290d27290fd154, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4fb7963ea79f68d47bea8a1e5c3cbfb7, type: 2}

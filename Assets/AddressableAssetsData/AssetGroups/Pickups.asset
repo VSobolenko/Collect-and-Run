@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Pickups
+  m_EditorClassIdentifier: 
+  m_GroupName: Pickups
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6dffaf7e8505a2f4999ebeaebe11c1c9
+  m_SerializeEntries:
+  - m_GUID: 0a85efe44ccf29b4d945e0f625f947f4
+    m_Address: KatanaNegative
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 146afe28a107d714e807db56d06efd07
+    m_Address: SushiPositive
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 556fbaf405cc94141b6af76b4b18bd0e
+    m_Address: DeathNoteNegative
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6723cd001f06062429651bbd588e6501
+    m_Address: NekomataPositive
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9015a12bbf1e2e64499b3c3212be0d5f
+    m_Address: ManekiNekoPositive
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91fedddf04a175e42ae5b4d3818021ca
+    m_Address: DragonPositive
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8c51d294ecc1c041ac5872f973f56e5
+    m_Address: OniMaskVar2Negative
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec864f7f277804148aae9642fd30a488
+    m_Address: CrystalTreePositive
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f717cbee0e436044381401043a79d363
+    m_Address: OniMaskVar1Negative
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ebb751b38591f7f4fa290d27290fd154, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 81c7392c772a6014680e6d2567fa5190, type: 2}
