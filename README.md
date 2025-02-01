@@ -1,20 +1,20 @@
-# Run Beautiful Girl
+# Run Beautiful Girl  
 
-## App Stores
-[Google Play](https://play.google.com/store/apps/details?id=com.gexetr.girlrunner) <br>
-[APKPure](https://apkpure.com/p/com.gexetr.girlrunner) <br>
-[AppBrain](https://www.appbrain.com/app/warehouse-keeper-box-world/com.gexetr.girlrunner) <br>
+## Available on  
+- [Google Play](https://play.google.com/store/apps/details?id=com.gexetr.girlrunner)  
+- [APKPure](https://apkpure.com/p/com.gexetr.girlrunner)  
+- [AppBrain](https://www.appbrain.com/app/warehouse-keeper-box-world/com.gexetr.girlrunner)  
 
-## Unity version 
-2022.3.46f1
+## Unity Version  
+**2022.3.46f1**  
 
-## Description
-Play, Upgrade, Run with anime girl!
-Anime-Runner based game
+## Description  
+Run, upgrade, and play as an anime girl in this exciting runner game!  
+Inspired by popular **anime-style** runner games.  
 
-## Reference
-[1](https://play.google.com/store/apps/details?id=com.ohmgames.richtopoor)
+## Reference  
+- [Run Rich 3D](https://play.google.com/store/apps/details?id=com.ohmgames.richtopoor)  
 
-## Screenshots
-| ![](Content/Screenshots/Image_1.jpg) | ![](Content/Screenshots/Image_2.jpg) | ![](Content/Screenshots/Image_3.jpg) |
---- | --- | ---
+## Screenshots  
+| ![](Content/Screenshots/Image_1.jpg) | ![](Content/Screenshots/Image_2.jpg) | ![](Content/Screenshots/Image_3.jpg) |  
+|---|---|---|  
