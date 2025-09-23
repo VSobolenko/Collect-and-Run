@@ -63,7 +63,7 @@ public class CameraDirector : ILateTickable
     private void FollowToTarget()
     {
         var desiredPosition = _target.position + _target.rotation * _settings.positionOffset;
-        var smoothedPosition = Vector3.Lerp(_camera.transform.position, desiredPosition, _settings.smoothSpeed);
+        var smoothedPosition = Vector3.Lerp(_camera.transform.position, desiredPosition, _settings.smoothSpeed * Time.deltaTime);
 
         _camera.transform.position = smoothedPosition;
         _camera.transform.LookAt(_target.position + _settings.lookOffset);

@@ -99,7 +99,7 @@ public class PlayerMoveCode : GenericBehaviour
 				behaviourManager.GetRigidBody.AddForce(transform.forward * jumpIntertialForce * Physics.gravity.magnitude * sprintSpeed, ForceMode.Acceleration);
 			}
 
-			if ((behaviourManager.GetRigidBody.velocity.y < 0) && behaviourManager.IsGrounded())
+			if ((behaviourManager.GetRigidBody.linearVelocity.y < 0) && behaviourManager.IsGrounded())
 			{
 				behaviourManager.GetAnim.SetBool(groundedBool, true);
 
@@ -120,7 +120,7 @@ public class PlayerMoveCode : GenericBehaviour
 			behaviourManager.GetRigidBody.useGravity = true;
 
 
-		else if (!behaviourManager.GetAnim.GetBool(jumpBool) && behaviourManager.GetRigidBody.velocity.y > 0)
+		else if (!behaviourManager.GetAnim.GetBool(jumpBool) && behaviourManager.GetRigidBody.linearVelocity.y > 0)
 		{
 			RemoveVerticalVelocity();
 		}
@@ -145,9 +145,9 @@ public class PlayerMoveCode : GenericBehaviour
 
 	private void RemoveVerticalVelocity()
 	{
-		Vector3 horizontalVelocity = behaviourManager.GetRigidBody.velocity;
+		Vector3 horizontalVelocity = behaviourManager.GetRigidBody.linearVelocity;
 		horizontalVelocity.y = 0;
-		behaviourManager.GetRigidBody.velocity = horizontalVelocity;
+		behaviourManager.GetRigidBody.linearVelocity = horizontalVelocity;
 	}
 
 	Vector3 Rotating(float horizontal, float vertical)

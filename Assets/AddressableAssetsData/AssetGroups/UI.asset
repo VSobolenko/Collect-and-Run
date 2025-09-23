@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: UI
   m_EditorClassIdentifier: 
   m_GroupName: UI
-  m_Data:
-    m_SerializedData: []
   m_GUID: ca38e0ff824695b46a23c83bfc88328e
   m_SerializeEntries:
   - m_GUID: 42c9c760791be374eb952273d5387118
@@ -29,6 +27,11 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 95034fc1330b2b74facf68c2f508253c
     m_Address: UI/VictoryWindowMediator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b09334779fb9b234bb056de923e4af63
+    m_Address: UI/UIRoot
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
