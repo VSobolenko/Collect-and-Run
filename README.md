@@ -6,6 +6,8 @@ alt="Run Beautiful Girl" width="256"/>
 
 _Run, Collect, Upgrade with Anime Girl_
 
+[![Unity](https://img.shields.io/badge/Unity-6000.2.8f1-black?logo=unity)](https://unity.com/)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/udWD2NCvc6)
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-3DDC84?logo=appbrain&logoColor=white)](https://play.google.com/store/apps/details?id=elytopia.world)
 [![AppBrain](https://img.shields.io/badge/AppBrain-Download-3DDC84)](https://www.appbrain.com/app/warehouse-keeper-box-world/com.gexetr.girlrunner)
 [![APKPure](https://img.shields.io/badge/APKPure-Download-3DDC84)](https://apkpure.com/p/com.gexetr.girlrunner)
@@ -25,9 +27,6 @@ _Run, Collect, Upgrade with Anime Girl_
     git submodule update --init --recursive
     ```
 3. Open and Run *Assets/_Runner/Scenes/Main.unity* scene
-
-## Unity Version  
-**6000.1.12f1**  
 
 ## Description  
 Run, upgrade, and play as an anime girl in this exciting runner game!  
