@@ -7,8 +7,6 @@
         "Unity.TextMeshPro",
         "Unity.Services.Core",
         "Unity.Services.Core.Environments",
-        "UnityEngine.Purchasing",
-        "UnityEngine.Purchasing.Stores",
         "VContainer",
         "Dreamteck.Splines",
         "GameCoreLib",
@@ -16,7 +14,8 @@
         "R3.Unity",
         "UniTask",
         "DOTween.Modules",
-        "GameAnalyticsSDK"
+        "GameAnalyticsSDK",
+        "Unity.Purchasing"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
